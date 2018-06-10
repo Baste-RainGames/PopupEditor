@@ -1,7 +1,7 @@
-#PopupEditor
+# PopupEditor
 This is a simple Unity plugin that allows you to ctrl+click the labels of properties to make them pop up in a window.
 
-#Usage
+# Usage
 Add the [Popup] property to a field:
 
 [Popup]
