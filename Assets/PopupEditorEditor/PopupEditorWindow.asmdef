@@ -1,0 +1,10 @@
+{
+    "name": "PopupEditorEditor",
+    "references": [
+        "PopupEditorAttribute"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

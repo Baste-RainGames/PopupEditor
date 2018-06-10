@@ -1,0 +1,13 @@
+.idea/
+Library/
+obj/
+Temp/
+Packages/
+ProjectSettings/
+Temp/
+*.csproj
+*.sln
+Assets/Plugin*
+
+*.meta
+!Assets/PopupEditorExample/*.meta
